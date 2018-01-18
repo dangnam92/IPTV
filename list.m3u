@@ -3,7 +3,7 @@
 http://127.0.0.1:6878/ace/getstream?id=e398458464765721823ee72ece6bd653f8efef6b&.mp4
 #EXTINF:-1 tvg-id="K+PC HD" group-title="Ace" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PC.png",K+PC HD 
 http://127.0.0.1:6878/ace/getstream?id=a02c7dad05603b75ed0105b18ccb9d58167569d6&.mp4
-#EXTINF:-1 tvg-id="K+PM HD" group-title="Ace" tvg-logo="https://s17.postimg.org/dzzpaft3z/K_PM.png",K+PM HD 
+#EXTINF:-1 tvg-id="K+PM HD" group-title="Ace" tvg-logo="https://s13.postimg.org/55zifa6o7/K_PM_HD.png",K+PM HD 
 http://127.0.0.1:6878/ace/getstream?id=e181c4fc9e55b5e93b6e8e10696b9b1879fd9971&.mp4
-#EXTINF:-1 tvg-id="K+NS HD" group-title="Ace" tvg-logo="https://s17.postimg.org/gyfju2l67/K_NS.png",K+NS HD 
+#EXTINF:-1 tvg-id="K+NS HD" group-title="Ace" tvg-logo="https://s13.postimg.org/x63lzmfaf/K_NS_HD.png",K+NS HD 
 http://127.0.0.1:6878/ace/getstream?id=33fc8f93cdc853dff477ee1b7e69827df03d41a6&.mp4
