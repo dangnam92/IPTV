@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="K+1 HD" group-title="Ace" tvg-logo="https://s17.postimg.org/6iqhvqj5r/K_1.png",K+1 HD
+#EXTINF:-1 tvg-id="K+1 HD" group-title="Ace" tvg-logo="https://s13.postimg.org/we0y07dlj/K_1_HD_logo_2013.png",K+1 HD
 http://127.0.0.1:6878/ace/getstream?id=e398458464765721823ee72ece6bd653f8efef6b&.mp4
-#EXTINF:-1 tvg-id="K+PC HD" group-title="Ace" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PC.png",K+PC HD (by TranNam)
+#EXTINF:-1 tvg-id="K+PC HD" group-title="Ace" tvg-logo="http://ia601504.us.archive.org/17/items/LOGOTV_201701/K_PC.png",K+PC HD 
 http://127.0.0.1:6878/ace/getstream?id=a02c7dad05603b75ed0105b18ccb9d58167569d6&.mp4
 #EXTINF:-1 tvg-id="K+PM HD" group-title="Ace" tvg-logo="https://s17.postimg.org/dzzpaft3z/K_PM.png",K+PM HD 
 http://127.0.0.1:6878/ace/getstream?id=e181c4fc9e55b5e93b6e8e10696b9b1879fd9971&.mp4
