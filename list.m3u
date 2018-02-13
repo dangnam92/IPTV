@@ -3,8 +3,12 @@
 http://58.187.33.94:4022/udp/225.1.2.232:30120
 #EXTINF:-1,Star Movies HD
 http://58.187.33.94:4022/udp/225.1.2.238:30120
+#EXTINF:-1,MAX by HBO HD
+http://58.187.33.94:4022/udp/225.1.2.91:30120
 #EXTINF:-1,AXN HD
 http://58.187.33.94:4022/udp/225.1.2.225:30120
+#EXTINF:-1,Fox Sports HD
+http://58.187.33.94:4022/udp/225.1.2.228:30120
 #EXTINF:-1,Fox Sports 2 HD
 http://58.187.33.94:4022/udp/225.1.1.108:30120
 #EXTINF:-1 tvg-id="K+1 HD" group-title="Ace" tvg-logo="https://s13.postimg.org/we0y07dlj/K_1_HD_logo_2013.png",K+1 HD
