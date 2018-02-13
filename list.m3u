@@ -1,22 +1,12 @@
 #EXTM3U
-#EXTINF:-1,VTV1 HD 
-https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b5000000.m3u8
-#EXTINF:-1,VTV2 HD 
-https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b2000000.m3u8
-#EXTINF:-1,VTV3 HD 
-https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b5000000.m3u8
-#EXTINF:-1,VTV4 HD 
-https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b2000000.m3u8
-#EXTINF:-1,VTV5 HD 
-https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b2000000.m3u8
-#EXTINF:-1,VTV6 HD 
-https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b5000000.m3u8
-#EXTINF:-1,VTV7 HD 
-https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b2000000.m3u8
-#EXTINF:-1,VTV8 HD 
-https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b2000000.m3u8
-#EXTINF:-1,VTV9 HD 
-https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,HBO HD
+http://58.187.33.94:4022/udp/225.1.2.232:30120
+#EXTINF:-1,Star Movies HD
+http://58.187.33.94:4022/udp/225.1.2.238:30120
+#EXTINF:-1,AXN HD
+http://58.187.33.94:4022/udp/225.1.2.225:30120
+#EXTINF:-1,Fox Sports 2 HD
+http://58.187.33.94:4022/udp/225.1.1.108:30120
 #EXTINF:-1 tvg-id="K+1 HD" group-title="Ace" tvg-logo="https://s13.postimg.org/we0y07dlj/K_1_HD_logo_2013.png",K+1 HD
 http://127.0.0.1:6878/ace/getstream?id=e398458464765721823ee72ece6bd653f8efef6b&.mp4
 #EXTINF:-1 tvg-id="K+PC HD" group-title="Ace" tvg-logo="https://s13.postimg.org/fhbv7jlef/K_PC_HD.png",K+PC HD 
