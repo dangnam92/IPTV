@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, bongda
-http://127.0.0.1:6878/ace/getstream?id=cde49c9f927399b5cf7f71ef8e322e9451f03376&.mp4
 #EXTINF:-1,HBO HD
 http://58.187.33.94:4022/udp/225.1.2.232:30120
 #EXTINF:-1,Star Movies HD
