@@ -1,21 +1,9 @@
 #EXTM3U
-#EXTINF:-1,HBO HD
-http://58.187.33.94:4022/udp/225.1.2.232:30120
-#EXTINF:-1,Star Movies HD
-http://58.187.33.94:4022/udp/225.1.2.238:30120
-#EXTINF:-1,MAX by HBO HD
-http://58.187.33.94:4022/udp/225.1.2.91:30120
-#EXTINF:-1,AXN HD
-http://58.187.33.94:4022/udp/225.1.2.225:30120
-#EXTINF:-1,Fox Sports HD
-http://58.187.33.94:4022/udp/225.1.2.228:30120
-#EXTINF:-1,Fox Sports 2 HD
-http://58.187.33.94:4022/udp/225.1.1.108:30120
 #EXTINF:-1 tvg-id="K+1 HD" group-title="Ace" tvg-logo="https://s13.postimg.org/we0y07dlj/K_1_HD_logo_2013.png",K+1 HD
 http://127.0.0.1:6878/ace/getstream?id=e398458464765721823ee72ece6bd653f8efef6b&.mp4
 #EXTINF:-1 tvg-id="K+PC HD" group-title="Ace" tvg-logo="https://s13.postimg.org/fhbv7jlef/K_PC_HD.png",K+PC HD 
-http://127.0.0.1:6878/ace/getstream?id=a02c7dad05603b75ed0105b18ccb9d58167569d6&.mp4
+http://127.0.0.1:6878/ace/getstream?id=1ef7379406667db7137c08740481a6cc989462a1&.mp4
 #EXTINF:-1 tvg-id="K+PM HD" group-title="Ace" tvg-logo="https://s13.postimg.org/55zifa6o7/K_PM_HD.png",K+PM HD 
-http://127.0.0.1:6878/ace/getstream?id=4b10b25461ec10726dd8e2d6534065bcbaed6457&.mp4
+http://127.0.0.1:6878/ace/getstream?id=70422b596ff217525f5a2f5f569d6d7750984e14&.mp4
 #EXTINF:-1 tvg-id="K+NS HD" group-title="Ace" tvg-logo="https://s13.postimg.org/x63lzmfaf/K_NS_HD.png",K+NS HD 
-http://127.0.0.1:6878/ace/getstream?id=33fc8f93cdc853dff477ee1b7e69827df03d41a6&.mp4
+http://127.0.0.1:6878/ace/getstream?id=86a304fccee6276f4f2bf42661f59157d06aab24&.mp4
