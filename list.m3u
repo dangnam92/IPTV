@@ -1,45 +1,33 @@
 #EXTM3U url-tvg="http://gg.gg/epgmytv"
 #-------------------VTV-------------------#
-#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/WpQtg0z.png", VTV1 HD
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/WpQtg0z.png", VTV1
 udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV" tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/R7q7HZj.png", VTV2 HD
+#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV" tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/R7q7HZj.png", VTV2
 udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV" tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/o6SxT3q.png", VTV3 HD
+#EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV" tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/o6SxT3q.png", VTV3
 udp://@225.1.2.247:30120
-#EXTINF:-1 tvg-name="VTV4-VTV" group-title="VTV" tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/4yhPtDf.png", VTV4 HD
+#EXTINF:-1 tvg-name="VTV4-VTV" group-title="VTV" tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/4yhPtDf.png", VTV4
 udp://@225.1.2.20:30120
-#EXTINF:-1 tvg-name="VTV5-VTV" group-title="VTV" tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/VBErOd8.png", VTV5 HD
+#EXTINF:-1 tvg-name="VTV5-VTV" group-title="VTV" tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/VBErOd8.png", VTV5
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-name="VTV6-VTV" group-title="VTV" tvg-id="vtv6hd" tvg-logo="https://i.imgur.com/GtnRg0D.png", VTV6 HD
+#EXTINF:-1 tvg-name="VTV6-VTV" group-title="VTV" tvg-id="vtv6hd" tvg-logo="https://i.imgur.com/GtnRg0D.png", VTV6
 udp://@225.1.2.245:30120
-#EXTINF:-1 tvg-name="VTV7-VTV" group-title="VTV" tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/EQaqb0h.png", VTV7 HD
+#EXTINF:-1 tvg-name="VTV7-VTV" group-title="VTV" tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/EQaqb0h.png", VTV7
 udp://@225.1.2.96:30120
-#EXTINF:-1 tvg-name="VTV8-VTV" group-title="VTV" tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/9XsZ2fd.png", VTV8 HD
+#EXTINF:-1 tvg-name="VTV8-VTV" group-title="VTV" tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/9XsZ2fd.png", VTV8
 udp://@225.1.2.166:30120
-#EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV" tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/UBN3r3k.png", VTV9 HD
+#EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV" tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/UBN3r3k.png", VTV9
 udp://@225.1.1.128:30120
 #-------------------Quốc tế HD-------------------#
 #EXTINF:-1 tvg-name="HBO" group-title="Quốc Tế (HD)",HBO
 udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-name="AXN-ClipTV" group-title="Quốc Tế (HD)",AXN
 udp://@225.1.2.225:30120
-#EXTINF:-1 tvg-name="FOX SPORTS-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS
-udp://@225.1.2.229:30120
-#EXTINF:-1 tvg-name="FOX SPORTS 2-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS 2
-udp://@225.1.1.141:30120
-#EXTINF:-1 tvg-name="FOX SPORTS 3-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS 3
-udp://@225.1.2.242:30120
-#EXTINF:-1 tvg-name="Fox Movies HD-ClipTV" group-title="Quốc Tế (HD)",FOX MOVIES
-udp://@225.1.2.239:30120
-#EXTINF:-1 tvg-name="Fox HD-ClipTV" group-title="Quốc Tế (HD)",FOX HD
-udp://@225.1.1.51:30120
-#EXTINF:-1 tvg-name="Fox Life HD-ClipTV" group-title="Quốc Tế (HD)",FOX life
-udp://@225.1.2.237:30120
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="Quốc Tế (HD)",CARTOON NETWORK
 udp://@225.1.2.231:30120
 #EXTINF:-1 tvg-name="KIX" group-title="Quốc Tế (HD)",KIX
 udp://@225.1.2.144:30120
-#EXTINF:-1 tvg-id="Max by HBO" group-title="Kênh qu?c t?" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD
+#EXTINF:-1 tvg-id="Max by HBO" group-title="Kênh quốc tế" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",MAX by HBO HD
 udp://@225.1.2.86:30120
 #EXTINF:-1 tvg-name="RED BY HBO" group-title="Quốc Tế (HD)",RED BY HBO
 udp://@225.1.1.93:30120
@@ -155,9 +143,6 @@ udp://@225.1.1.236:30120
 udp://@225.1.1.200:30120
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png",Warner Bros TV HD
 udp://@225.1.1.139:30120
-#-------------------SCTV-------------------#
-#EXTINF:-1 group-title="SCTV",SCTV2
-udp://@225.1.1.234:30120
 #-------------------Thiết yếu-------------------#
 #EXTINF:-1 tvg-name="ANTV" group-title="Kênh TH Thiết yếu",ANTV HD
 udp://@225.1.2.169:30120
