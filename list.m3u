@@ -25,6 +25,10 @@ udp://@225.1.1.112:30120
 udp://@225.1.2.225:30120
 #EXTINF:0 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
 udp://@225.1.2.231:30120
+#EXTINF:0 tvg-id="discoveryasiahd" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryasiahd.jpg",Discovery Asia
+udp://225.1.2.223:30120
+#EXTINF:0 tvg-id="discoveryhd" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryhd.jpg",Discovery Channel
+udp://225.1.1.238:30120
 #-------------------VTC-------------------#
 #EXTINF:0 tvg-id="vtc1hd" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD
 udp://@225.1.3.50:30120
