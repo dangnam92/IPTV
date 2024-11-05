@@ -27,9 +27,9 @@ udp://@225.1.2.225:30120
 udp://@225.1.2.231:30120
 #EXTINF:0 tvg-id="discoveryasiahd" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryasiahd.jpg",Discovery Asia
 udp://@225.1.2.223:30120
-#EXTINF:0 tvg-id="discoveryhd" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryhd.jpg",Discovery Channel
+#EXTINF:0 tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/PVmVWCQ.png",Discovery Channel
 udp://@225.1.1.238:30120
-#EXTINF:0 tvg-id="animalhd" tvg-logo="https://img.lichphatsong.xyz/logo/animalhd.jpg",Animal Planet
+#EXTINF:0 tvg-id="animalhd" tvg-logo="https://i.imgur.com/PqFyxHj.png",Animal Planet
 udp://@225.1.1.231:30120
 #EXTINF:0 tvg-id="davinci" tvg-logo="https://img.lichphatsong.xyz/logo/davinci.png",Da Vinci
 udp://@225.1.1.197:30120
