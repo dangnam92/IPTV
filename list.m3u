@@ -35,10 +35,6 @@ udp://@225.1.1.231:30120
 udp://@225.1.1.197:30120
 #EXTINF:0 tvg-id="bbcearth" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
 udp://@225.1.2.24:30120
-#EXTINF:0 tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
-udp://@225.1.3.14:30120
-#EXTINF:0 tvg-id="cinemaworldhd" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
-udp://@225.1.3.81:30120
 #-------------------VTC-------------------#
 #EXTINF:0 tvg-id="vtc1hd" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD
 udp://@225.1.2.254:30120
