@@ -35,6 +35,8 @@ udp://@225.1.1.231:30120
 udp://@225.1.1.197:30120
 #EXTINF:0 tvg-id="bbcearth" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
 udp://@225.1.2.24:30120
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png",Cinemax Asia
+http://125.227.210.55:8151/VideoInput/play.ts
 #-------------------VTC-------------------#
 #EXTINF:0 tvg-id="vtc1hd" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD
 udp://@225.1.2.254:30120
