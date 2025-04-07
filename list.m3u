@@ -19,6 +19,16 @@ udp://@225.1.3.11:30120
 #EXTINF:0 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 udp://@225.1.3.9:30120
 
+#EXTINF:-1, K+ SPORT1
+https://truyenhinh.click/ksport1hd
+#EXTINF:-1, ON Sports
+https://truyenhinh.click/vtvcab3
+#EXTINF:-1, ON Sports+
+https://truyenhinh.click/vtvcab6
+#EXTINF:-1, ON Football
+https://truyenhinh.click/vtvcab16
+#EXTINF:-1, ON Sports News
+https://truyenhinh.click/vtvcab18
 #-------------------Quốc tế HD-------------------#
 #EXTINF:0 tvg-id="hbohd" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO 
 udp://@225.1.1.112:30120
