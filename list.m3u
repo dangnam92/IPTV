@@ -19,7 +19,7 @@ udp://@225.1.3.11:30120
 #EXTINF:0 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 udp://@225.1.3.9:30120
 
-#EXTINF:-1, K+ SPORT1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 HD
 https://truyenhinh.click/ksport1hd
 #EXTINF:-1, ON Sports
 https://truyenhinh.click/vtvcab3
