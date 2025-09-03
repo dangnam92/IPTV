@@ -44,6 +44,8 @@ udp://@225.1.2.169:30120
 udp://@225.1.2.217:30120
 #EXTINF:0 tvg-id="hanoi1" tvg-logo="https://i.imgur.com/mwCTDMj.png",Hà Nội 1
 udp://@225.1.2.186:30120
+#EXTINF:0 tvg-id="hanoi2" tvg-logo="https://i.imgur.com/HyiwlZV.png",Hà Nội 2
+udp://@225.1.1.109:30120
 #-------------------HTV/HTVC-------------------#
 #EXTINF:0 tvg-id="htv1" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 udp://@225.1.1.180:30120
@@ -71,4 +73,5 @@ udp://@225.1.1.171:30120
 udp://@225.1.1.186:30120
 #EXTINF:0 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 udp://@225.1.1.181:30120
+
 
