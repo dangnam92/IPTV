@@ -65,13 +65,14 @@ udp://@225.1.1.185:30120
 udp://@225.1.1.166:30120
 #EXTINF:0 tvg-id="htvcgiadinhhd" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình
 udp://@225.1.1.170:30120
-#EXTINF:0 tvg-id="htvcphimhd" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim
+#EXTINF:0 tvg-id="htvcphimhd" tvg-logo="https://img.lichphatsong.xyz/logo/htvcphimhd.jpg",HTVC Phim
 udp://@225.1.1.184:30120
-#EXTINF:0 tvg-id="htvcphunuhd" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ
+#EXTINF:0 tvg-id="htvcphunuhd" tvg-logo="https://img.lichphatsong.xyz/logo/htvcphunuhd.jpg",HTVC Phụ Nữ
 udp://@225.1.1.171:30120
 #EXTINF:0 tvg-id="htvcthuanviet" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
 udp://@225.1.1.186:30120
 #EXTINF:0 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 udp://@225.1.1.181:30120
+
 
 
