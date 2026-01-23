@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
+#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+#EXTM3U url-tvg="https://epg.946985.xyz/t.xml.gz"
 #-------------------VTV-------------------#
 #EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 udp://@225.1.2.249:30120
@@ -75,6 +77,7 @@ udp://@225.1.1.171:30120
 udp://@225.1.1.186:30120
 #EXTINF:0 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 udp://@225.1.1.181:30120
+
 
 
 
