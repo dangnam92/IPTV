@@ -12,6 +12,10 @@ udp://@225.1.2.190:30120
 udp://@225.1.2.20:30120
 #EXTINF:0 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 udp://@225.1.1.131:30120
+#EXTINF:0 tvg-id="vtv5hdtnb" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
+udp://@225.1.2.236:30120
+#EXTINF:0 tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
+udp://@225.1.1.108:30120
 #EXTINF:0 tvg-id="vtvcantho" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
 udp://@225.1.2.245:30120
 #EXTINF:0 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
@@ -75,3 +79,4 @@ udp://@225.1.1.171:30120
 udp://@225.1.1.186:30120
 #EXTINF:0 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 udp://@225.1.1.181:30120
+
