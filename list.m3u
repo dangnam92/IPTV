@@ -6,16 +6,10 @@ udp://@225.1.2.249:30120
 udp://@225.1.2.13:30120
 #EXTINF:0 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 udp://@225.1.2.247:30120
-#EXTINF:0 tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today
-udp://@225.1.2.190:30120
 #EXTINF:0 tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
 udp://@225.1.2.20:30120
 #EXTINF:0 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 udp://@225.1.1.131:30120
-#EXTINF:0 tvg-id="vtv5hdtnb" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-udp://@225.1.2.236:30120
-#EXTINF:0 tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-udp://@225.1.1.108:30120
 #EXTINF:0 tvg-id="vtvcantho" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
 udp://@225.1.2.245:30120
 #EXTINF:0 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
@@ -24,6 +18,8 @@ udp://@225.1.2.96:30120
 udp://@225.1.2.166:30120
 #EXTINF:0 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 udp://@225.1.1.128:30120
+#EXTINF:0 tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today
+udp://@225.1.2.190:30120
 
 #-------------------Quốc tế HD-------------------#
 #EXTINF:0 tvg-id="hbohd" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO 
@@ -79,4 +75,5 @@ udp://@225.1.1.171:30120
 udp://@225.1.1.186:30120
 #EXTINF:0 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 udp://@225.1.1.181:30120
+
 
