@@ -48,6 +48,7 @@ udp://@225.1.2.217:30120
 udp://@225.1.2.186:30120
 #EXTINF:0 tvg-id="hanoi2" tvg-logo="https://i.imgur.com/HyiwlZV.png",Hà Nội 2
 udp://@225.1.1.109:30120
+
 #-------------------HTV/HTVC-------------------#
 #EXTINF:0 tvg-id="htv1" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 udp://@225.1.1.180:30120
@@ -75,5 +76,101 @@ udp://@225.1.1.171:30120
 udp://@225.1.1.186:30120
 #EXTINF:0 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 udp://@225.1.1.181:30120
+
+#-------------------Địa phương-------------------#
+#EXTINF:0 tvg-id="haiphong" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | Hải Phòng
+udp://@225.1.1.44:30120
+#EXTINF:0 tvg-id="haiphong3" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",THP3 | Hải Phòng
+udp://@225.1.1.113:30120
+#EXTINF:0 tvg-id="hue" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV | Huế
+udp://@225.1.1.161:30120
+#EXTINF:0 tvg-id="danang1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",ĐNRT1 | Đà Nẵng
+udp://@225.1.1.147:30120
+#EXTINF:0 tvg-id="danang2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 | Đà Nẵng
+udp://@225.1.1.146:30120
+#EXTINF:0 tvg-id="anvienhd" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel
+udp://@225.1.2.189:30120
+#EXTINF:0 tvg-id="cantho1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho1.png",Cần Thơ 1
+udp://@225.1.1.132:30120
+#EXTINF:0 tvg-id="cantho2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",Cần Thơ 2
+udp://@225.1.1.157:30120
+#EXTINF:0 tvg-id="cantho3" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho3.png",Cần Thơ 3
+udp://@225.1.1.159:30120
+#EXTINF:0 tvg-id="dienbien" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV | Điện Biên
+udp://@225.1.1.74:30120
+#EXTINF:0 tvg-id="laichau" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV | Lai Châu
+udp://@225.1.2.36:30120
+#EXTINF:0 tvg-id="laocai" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC | Lào Cai
+udp://@225.1.1.119:30120
+#EXTINF:0 tvg-id="sonla" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV HD | Sơn La
+udp://@225.1.1.98:30120
+#EXTINF:0 tvg-id="tuyenquang" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV | Tuyên Quang
+udp://@225.1.2.188:30120
+#EXTINF:0 tvg-id="caobang" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV | Cao Bằng
+udp://@225.1.1.102:30120
+#EXTINF:0 tvg-id="langson" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD | Lạng Sơn
+udp://@225.1.1.160:30120
+#EXTINF:0 tvg-id="thainguyen" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",TN | Thái Nguyên
+udp://@225.1.2.179:30120
+#EXTINF:0 tvg-id="phutho" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD | Phú Thọ
+udp://@225.1.2.165:30120
+#EXTINF:0 tvg-id="bacninh" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BTV_BacNinh.png",BTV | Bắc Ninh
+udp://@225.1.1.164:30120
+#EXTINF:0 tvg-id="quangninh1" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD | Quảng Ninh
+udp://@225.1.2.181:30120
+#EXTINF:0 tvg-id="quangninh3" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD | Quảng Ninh
+udp://@225.1.2.180:30120
+#EXTINF:0 tvg-id="ninhbinh" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD | Ninh Bình
+udp://@225.1.2.185:30120
+#EXTINF:0 tvg-id="nghean" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD | Nghệ An
+udp://@225.1.2.183:30120
+#EXTINF:0 tvg-id="hatinh" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",BHTTV | Hà Tĩnh
+udp://@225.1.1.75:30120
+#EXTINF:0 tvg-id="quangtri" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QTTV_QuangTri.png",QTTV | Quảng Trị
+udp://@225.1.1.117:30120
+#EXTINF:0 tvg-id="quangngai1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV1_QuangNgai.png",QNgTV1 | Quảng Ngãi
+udp://@225.1.2.174:30120
+#EXTINF:0 tvg-id="quangngai2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV2_QuangNgai.png",QNgTV2 | Quảng Ngãi
+udp://@225.1.1.36:30120
+#EXTINF:0 tvg-id="gialai" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/GTV_GiaLai.png",GTV | Gia Lai
+udp://@225.1.1.145:30120
+#EXTINF:0 tvg-id="daklak" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD | Đắk Lắk
+udp://@225.1.1.64:30120
+#EXTINF:0 tvg-id="khanhhoa" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/KTV_KhanhHoa.png",KTV HD | Khánh Hòa
+udp://@225.1.1.133:30120
+#EXTINF:0 tvg-id="khanhhoa1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/KTV1_KhanhHoa.png",KTV1 HD | Khánh Hòa
+udp://@225.1.2.178:30120
+#EXTINF:0 tvg-id="lamdong1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png",LTV1 | Lâm Đồng
+udp://@225.1.2.177:30120
+#EXTINF:0 tvg-id="lamdong2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 | Lâm Đồng
+udp://@225.1.1.124:30120
+#EXTINF:0 tvg-id="dongnai1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Đồng Nai
+udp://@225.1.1.152:30120
+#EXTINF:0 tvg-id="dongnai1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Đồng Nai
+udp://@225.1.1.153:30120
+#EXTINF:0 tvg-id="dongnai2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNNRTV2 HD | Đồng Nai
+udp://@225.1.1.151:30120
+#EXTINF:0 tvg-id="dongthap1" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 | Đồng Tháp
+udp://@225.1.1.163:30120
+#EXTINF:0 tvg-id="dongthap2" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây | Đồng Tháp
+udp://@225.1.1.210:30120
+#EXTINF:0 tvg-id="vinhlong1hd" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 | Vĩnh Long
+udp://@225.1.1.155:30120
+#EXTINF:0 tvg-id="vinhlong2hd" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 | Vĩnh Long
+udp://@225.1.1.154:30120
+#EXTINF:0 tvg-id="vinhlong3hd" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 | Vĩnh Long
+udp://@225.1.1.235:30120
+#EXTINF:0 tvg-id="vinhlong4hd" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 | Vĩnh Long
+udp://@225.1.2.25:30120
+#EXTINF:0 tvg-id="vinhlong5hd" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 | Vĩnh Long
+udp://@225.1.2.172:30120
+#EXTINF:0 tvg-id="angiang1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png",ATV1 | An Giang
+udp://@225.1.2.182:30120
+#EXTINF:0 tvg-id="angiang2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV2_AnGiang.png",ATV2 | An Giang
+udp://@225.1.2.173:30120
+#EXTINF:0 tvg-id="angiang3" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV3_AnGiang.png",ATV3 | An Giang
+udp://@225.1.1.174:30120
+#EXTINF:0 tvg-id="camau" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD | Cà Mau
+udp://@225.1.1.104:30120
 
 
