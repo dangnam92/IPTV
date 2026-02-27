@@ -90,8 +90,6 @@ udp://@225.1.1.161:30120
 udp://@225.1.1.147:30120
 #EXTINF:0 tvg-id="danang2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 | Đà Nẵng
 udp://@225.1.1.146:30120
-#EXTINF:0 tvg-id="anvienhd" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel
-udp://@225.1.2.189:30120
 #EXTINF:0 tvg-id="cantho1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho1.png",Cần Thơ 1
 udp://@225.1.1.132:30120
 #EXTINF:0 tvg-id="cantho2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",Cần Thơ 2
@@ -174,6 +172,7 @@ udp://@225.1.2.173:30120
 udp://@225.1.1.174:30120
 #EXTINF:0 tvg-id="camau" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD | Cà Mau
 udp://@225.1.1.104:30120
+
 
 
 
