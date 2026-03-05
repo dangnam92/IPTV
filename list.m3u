@@ -20,8 +20,6 @@ udp://@225.1.2.166:30120
 udp://@225.1.1.128:30120
 #EXTINF:0 tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today
 udp://@225.1.2.190:30120
-#EXTINF:0 tvg-id="",BTV9 An Viên HD
-udp://@225.1.4.99:30120
 
 #-------------------Quốc tế HD-------------------#
 #EXTINF:0 tvg-id="hbohd" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO 
@@ -86,9 +84,9 @@ udp://@225.1.1.44:30120
 udp://@225.1.1.113:30120
 #EXTINF:0 tvg-id="hue" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV | Huế
 udp://@225.1.1.161:30120
-#EXTINF:0 tvg-id="danang1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",ĐNRT1 | Đà Nẵng
+#EXTINF:0 tvg-id="danang1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",ĐNRT1 | Đà Nẵng 1
 udp://@225.1.1.147:30120
-#EXTINF:0 tvg-id="danang2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 | Đà Nẵng
+#EXTINF:0 tvg-id="danang2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 | Đà Nẵng 2
 udp://@225.1.1.146:30120
 #EXTINF:0 tvg-id="cantho1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho1.png",Cần Thơ 1
 udp://@225.1.1.132:30120
@@ -116,9 +114,9 @@ udp://@225.1.2.179:30120
 udp://@225.1.2.165:30120
 #EXTINF:0 tvg-id="bacninh" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BTV_BacNinh.png",BTV | Bắc Ninh
 udp://@225.1.1.164:30120
-#EXTINF:0 tvg-id="quangninh1" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD | Quảng Ninh
+#EXTINF:0 tvg-id="quangninh1" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD | Quảng Ninh 1
 udp://@225.1.2.181:30120
-#EXTINF:0 tvg-id="quangninh3" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD | Quảng Ninh
+#EXTINF:0 tvg-id="quangninh3" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD | Quảng Ninh 2
 udp://@225.1.2.180:30120
 #EXTINF:0 tvg-id="ninhbinh" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD | Ninh Bình
 udp://@225.1.2.185:30120
@@ -128,9 +126,9 @@ udp://@225.1.2.183:30120
 udp://@225.1.1.75:30120
 #EXTINF:0 tvg-id="quangtri" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QTTV_QuangTri.png",QTTV | Quảng Trị
 udp://@225.1.1.117:30120
-#EXTINF:0 tvg-id="quangngai1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV1_QuangNgai.png",QNgTV1 | Quảng Ngãi
+#EXTINF:0 tvg-id="quangngai1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV1_QuangNgai.png",QNgTV1 | Quảng Ngãi 1
 udp://@225.1.2.174:30120
-#EXTINF:0 tvg-id="quangngai2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV2_QuangNgai.png",QNgTV2 | Quảng Ngãi
+#EXTINF:0 tvg-id="quangngai2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV2_QuangNgai.png",QNgTV2 | Quảng Ngãi 2
 udp://@225.1.1.36:30120
 #EXTINF:0 tvg-id="gialai" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/GTV_GiaLai.png",GTV | Gia Lai
 udp://@225.1.1.145:30120
@@ -140,27 +138,25 @@ udp://@225.1.1.64:30120
 udp://@225.1.1.133:30120
 #EXTINF:0 tvg-id="khanhhoa1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/KTV1_KhanhHoa.png",KTV1 HD | Khánh Hòa
 udp://@225.1.2.178:30120
-#EXTINF:0 tvg-id="lamdong1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png",LTV1 | Lâm Đồng
+#EXTINF:0 tvg-id="lamdong1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png",LTV1 | Lâm Đồng 1
 udp://@225.1.2.177:30120
-#EXTINF:0 tvg-id="lamdong2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 | Lâm Đồng
+#EXTINF:0 tvg-id="lamdong2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 | Lâm Đồng 2
 udp://@225.1.1.124:30120
-#EXTINF:0 tvg-id="dongnai1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Đồng Nai
+#EXTINF:0 tvg-id="dongnai1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Đồng Nai 1
 udp://@225.1.1.152:30120
-#EXTINF:0 tvg-id="dongnai1" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Đồng Nai
-udp://@225.1.1.153:30120
-#EXTINF:0 tvg-id="dongnai2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNNRTV2 HD | Đồng Nai
+#EXTINF:0 tvg-id="dongnai2" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNNRTV2 HD | Đồng Nai 2
 udp://@225.1.1.151:30120
-#EXTINF:0 tvg-id="dongthap1" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 | Đồng Tháp
+#EXTINF:0 tvg-id="dongthap1" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 | Đồng Tháp 1
 udp://@225.1.1.163:30120
-#EXTINF:0 tvg-id="dongthap2" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây | Đồng Tháp
+#EXTINF:0 tvg-id="dongthap2" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây | Đồng Tháp 2
 udp://@225.1.1.210:30120
-#EXTINF:0 tvg-id="vinhlong1hd" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 | Vĩnh Long
+#EXTINF:0 tvg-id="vinhlong1hd" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 | Vĩnh Long 1
 udp://@225.1.1.155:30120
-#EXTINF:0 tvg-id="vinhlong2hd" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 | Vĩnh Long
+#EXTINF:0 tvg-id="vinhlong2hd" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 | Vĩnh Long 2
 udp://@225.1.1.154:30120
-#EXTINF:0 tvg-id="vinhlong3hd" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 | Vĩnh Long
+#EXTINF:0 tvg-id="vinhlong3hd" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 | Vĩnh Long 3
 udp://@225.1.1.235:30120
-#EXTINF:0 tvg-id="vinhlong4hd" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 | Vĩnh Long
+#EXTINF:0 tvg-id="vinhlong4hd" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 | Vĩnh Long 4
 udp://@225.1.2.25:30120
 #EXTINF:0 tvg-id="vinhlong5hd" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 | Vĩnh Long
 udp://@225.1.2.172:30120
@@ -172,6 +168,7 @@ udp://@225.1.2.173:30120
 udp://@225.1.1.174:30120
 #EXTINF:0 tvg-id="camau" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD | Cà Mau
 udp://@225.1.1.104:30120
+
 
 
 
