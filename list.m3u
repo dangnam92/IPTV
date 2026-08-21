@@ -20,6 +20,8 @@ udp://@225.1.2.166:30120
 udp://@225.1.1.128:30120
 #EXTINF:0 tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today
 udp://@225.1.2.190:30120
+#EXTINF:0 tvg-id="" tvg-logo="",Bóng đá
+udp://@225.1.1.17:30120
 
 #-------------------Quốc tế HD-------------------#
 #EXTINF:0 tvg-id="hbohd" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO 
